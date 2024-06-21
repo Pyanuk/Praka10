@@ -1,0 +1,1770 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\bindinglibrary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|solutionrelative:bindinglibrary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\bindinglibrary\\bindinglibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|solutionrelative:bindinglibrary\\bindinglibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\bindinglibrary\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|solutionrelative:bindinglibrary\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\bindinglibrary\\bindinglibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|solutionrelative:bindinglibrary\\bindinglibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\directionelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\directionelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\authorization\\pages\\patientauthorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\authorization\\pages\\patientauthorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\appointmentelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\appointmentelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\medicalappointmentelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\medicalappointmentelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\specialistelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\specialistelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\datetimeitemscontrolelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\datetimeitemscontrolelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\blackstartorcancelelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\blackstartorcancelelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\viewmodel\\patientviewmodels\\medicalappointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\viewmodel\\patientviewmodels\\medicalappointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\pages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\pages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|C:\\Users\\rhali\\source\\repos\\Emias_WPF\\project_emias\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\project_emias.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\project_emias.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\bindinglibrary\\bindinglibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5131FE9-18D2-4848-8A6A-6A663E6DE05F}|BindingLibrary\\BindingLibrary.csproj|solutionrelative:bindinglibrary\\bindinglibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\viewmodel\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\viewmodel\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\viewmodel\\patientviewmodels\\profilepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\viewmodel\\patientviewmodels\\profilepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\viewmodel\\patientviewmodels\\patientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\viewmodel\\patientviewmodels\\patientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\viewmodel\\patientviewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\viewmodel\\patientviewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\patientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\patientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\patientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\patientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\timeelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\timeelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\timeelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\timeelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\specialistelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\specialistelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\medicalappointmentelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\medicalappointmentelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\doctorelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\doctorelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\doctorelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\doctorelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\datetimeitemscontrolelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\datetimeitemscontrolelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\appointmentelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\appointmentelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\analyselement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\analyselement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\allpostselement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\allpostselement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\analyselement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\analyselement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\userel\\allpostselement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\userel\\allpostselement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\specialistselectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\specialistselectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\specialistselectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\specialistselectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\medicalappointmentscardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\medicalappointmentscardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\medicalappointmentscardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\medicalappointmentscardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\medcardanalysespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\medcardanalysespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\medcardanalysespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\medcardanalysespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\appointmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\appointmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\user\\pages\\appointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\user\\pages\\appointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\startorcancelelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\startorcancelelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\startorcancelelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\startorcancelelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\recordcompletedelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\recordcompletedelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\recordcompletedelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\recordcompletedelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\directionelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\directionelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\doctor\\doctorel\\blackstartorcancelelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\doctor\\doctorel\\blackstartorcancelelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\authorization\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\authorization\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\authorization\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\authorization\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\authorization\\pages\\patientauthorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\authorization\\pages\\patientauthorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\authorization\\pages\\doctorauthorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\authorization\\pages\\doctorauthorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\authorization\\pages\\doctorauthorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\authorization\\pages\\doctorauthorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\pages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\pages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\pages\\doctorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\pages\\doctorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\pages\\doctorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\pages\\doctorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\view\\admin\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\view\\admin\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\utilities\\jsonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\utilities\\jsonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\utilities\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\utilities\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\savingpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\savingpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\analysdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\analysdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\project_emias\\model\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2C11-D8EF-4EC7-A2EA-E9D57E790962}|Project_Emias\\Project_Emias.csproj|solutionrelative:project_emias\\model\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\researchdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\researchdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\directionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\directionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\appointmentdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\appointmentdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\analysedocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\analysedocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\umiascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\umiascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\analysedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\analysedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|c:\\users\\rhali\\source\\repos\\emias_wpf\\emias_wpf\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC6A8FD-81F8-47EA-9F9E-06F63516D49C}|Emias_WPF\\Emias_WPF.csproj|solutionrelative:emias_wpf\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BindingLibrary\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "BindingLibrary\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:04:36.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\App.xaml",
+              "RelativeDocumentMoniker": "BindingLibrary\\App.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\App.xaml",
+              "RelativeToolTip": "BindingLibrary\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T09:55:58.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BindingLibrary",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\BindingLibrary.csproj",
+              "RelativeDocumentMoniker": "BindingLibrary\\BindingLibrary.csproj",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\BindingLibrary.csproj",
+              "RelativeToolTip": "BindingLibrary\\BindingLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T09:35:47.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectionElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:54:09.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BindingLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\BindingLibrary.cs",
+              "RelativeDocumentMoniker": "BindingLibrary\\BindingLibrary.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\BindingLibrary.cs",
+              "RelativeToolTip": "BindingLibrary\\BindingLibrary.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:05:43.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\App.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\App.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\App.xaml",
+              "RelativeToolTip": "Project_Emias\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:22:29.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:58:48.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicalAppointmentElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:59:45.137Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientAuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:52:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecialistElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T09:00:01.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:55:53.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateTimeItemsControlElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:59:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlackStartOrCancelElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:53:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicalAppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\MedicalAppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\ViewModel\\PatientViewModels\\MedicalAppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\MedicalAppointmentViewModel.cs",
+              "RelativeToolTip": "Project_Emias\\ViewModel\\PatientViewModels\\MedicalAppointmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:01:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\Pages\\UserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\UserPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\Pages\\UserPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:50:16.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\AdminWindow.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:51:37.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\ProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:57:00.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\ViewModel\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\AdminViewModel.cs",
+              "RelativeToolTip": "Project_Emias\\ViewModel\\AdminViewModel.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:01:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\App.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:12:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Project_Emias\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Properties\\Settings.settings",
+              "RelativeToolTip": "Project_Emias\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-21T09:20:22.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Project_Emias",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Project_Emias.csproj",
+              "RelativeDocumentMoniker": "Project_Emias\\Project_Emias.csproj",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Project_Emias.csproj",
+              "RelativeToolTip": "Project_Emias\\Project_Emias.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T09:20:00.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BindingLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\BindingLibrary.csproj",
+              "RelativeDocumentMoniker": "BindingLibrary\\BindingLibrary.csproj",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\BindingLibrary\\BindingLibrary.csproj",
+              "RelativeToolTip": "BindingLibrary\\BindingLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T09:06:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\AssemblyInfo.cs",
+              "RelativeToolTip": "Project_Emias\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:02:53.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorizationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\AuthorizationViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\ViewModel\\AuthorizationViewModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\AuthorizationViewModel.cs",
+              "RelativeToolTip": "Project_Emias\\ViewModel\\AuthorizationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:01:29.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfilePageVIewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\ProfilePageVIewModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\ViewModel\\PatientViewModels\\ProfilePageVIewModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\ProfilePageVIewModel.cs",
+              "RelativeToolTip": "Project_Emias\\ViewModel\\PatientViewModels\\ProfilePageVIewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:02:16.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PatientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\PatientViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\ViewModel\\PatientViewModels\\PatientViewModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\PatientViewModel.cs",
+              "RelativeToolTip": "Project_Emias\\ViewModel\\PatientViewModels\\PatientViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:02:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\ViewModel\\PatientViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\ViewModel\\PatientViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "Project_Emias\\ViewModel\\PatientViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:01:41.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TimeElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\TimeElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\TimeElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\TimeElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\TimeElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:00:28.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TimeElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\TimeElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\TimeElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\TimeElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\TimeElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T09:00:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\PatientWindow.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\PatientWindow.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\PatientWindow.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\PatientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:55:12.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\PatientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\PatientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\PatientWindow.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\PatientWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:55:22.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SpecialistElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\SpecialistElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:00:09.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MedicalAppointmentElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\MedicalAppointmentElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:59:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DoctorElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:59:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DoctorElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\DoctorElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:59:29.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DateTimeItemsControlElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\DateTimeItemsControlElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:59:22.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppointmentElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\AppointmentElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:58:56.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AllPostsElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:58:13.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AnalysElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:58:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AnalysElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\AnalysElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:58:33.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AllPostsElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\UserEl\\AllPostsElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:58:05.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SpecialistSelectionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:57:45.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SpecialistSelectionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\SpecialistSelectionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:57:34.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:57:15.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MedicalAppointmentsCardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:56:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MedicalAppointmentsCardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\MedicalAppointmentsCardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:56:40.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MedCardAnalysesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:56:19.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MedCardAnalysesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\MedCardAnalysesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:56:08.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:56:03.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AppointmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:55:49.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AppointmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\User\\Pages\\AppointmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:55:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DoctorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorWindow.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorWindow.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorWindow.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:53:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DoctorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorWindow.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:53:49.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StartOrCancelElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:54:41.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StartOrCancelElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\StartOrCancelElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:54:51.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RecordCompletedElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:54:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RecordCompletedElement.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\RecordCompletedElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:54:25.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DirectionElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\DirectionElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:54:19.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BlackStartOrCancelElement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Doctor\\DoctorEl\\BlackStartOrCancelElement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:54:04.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:53:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Authorization\\AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:53:12.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PatientAuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Authorization\\Pages\\PatientAuthorizationPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:53:03.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DoctorAuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:52:35.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DoctorAuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Authorization\\Pages\\DoctorAuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:52:26.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:51:46.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\UserPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\Pages\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\UserPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\Pages\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:50:05.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DoctorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:49:49.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DoctorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\Pages\\DoctorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:49:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:49:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "Project_Emias\\View\\Admin\\Pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T08:49:19.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "JsonSettings.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Utilities\\JsonSettings.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Utilities\\JsonSettings.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Utilities\\JsonSettings.cs",
+              "RelativeToolTip": "Project_Emias\\Utilities\\JsonSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:47:35.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Utilities\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Utilities\\ApiHelper.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Utilities\\ApiHelper.cs",
+              "RelativeToolTip": "Project_Emias\\Utilities\\ApiHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:47:30.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PatientModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\PatientModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\PatientModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\PatientModel.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\PatientModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:30.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DoctorModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\DoctorModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\DoctorModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\DoctorModel.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\DoctorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:28.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ResearchDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\ResearchDocument.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\ResearchDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\ResearchDocument.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\ResearchDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SavingPatient.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\SavingPatient.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\SavingPatient.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\SavingPatient.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\SavingPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Speciality.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\Speciality.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Speciality.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\Speciality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:47:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Status.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\Status.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Status.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:47:03.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Direction.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\Direction.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Direction.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:25.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AppointmentDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\AppointmentDocument.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\AppointmentDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\AppointmentDocument.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\AppointmentDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:22.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Appointment.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\Appointment.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\Appointment.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:19.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AnalysDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\AnalysDocument.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\AnalysDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\AnalysDocument.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\AnalysDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:46:16.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\AdminModel.cs",
+              "RelativeDocumentMoniker": "Project_Emias\\Model\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Project_Emias\\Model\\AdminModel.cs",
+              "RelativeToolTip": "Project_Emias\\Model\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:45:51.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:13:10.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SpecialitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\SpecialitiesController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\SpecialitiesController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\SpecialitiesController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\SpecialitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:12:30.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\appsettings.json",
+              "RelativeDocumentMoniker": "Emias_WPF\\appsettings.json",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\appsettings.json",
+              "RelativeToolTip": "Emias_WPF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T07:57:48.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Program.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Program.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Program.cs",
+              "RelativeToolTip": "Emias_WPF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:59:08.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ResearchDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\ResearchDocumentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\ResearchDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:11:54.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:11:06.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:10:27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "DirectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\DirectionsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\DirectionsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\DirectionsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\DirectionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:09:59.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AppointmentDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AppointmentDocumentsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\AppointmentDocumentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AppointmentDocumentsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\AppointmentDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:08:57.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:07:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AnalyseDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AnalyseDocumentsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\AnalyseDocumentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AnalyseDocumentsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\AnalyseDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:06:40.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Emias_WPF\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:05:58.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Status.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:03:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Speciality.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Speciality.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Speciality.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Speciality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:03:32.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ResearchDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\ResearchDocument.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\ResearchDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\ResearchDocument.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\ResearchDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:03:23.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Patient.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:03:11.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UMIASContext.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\UMIASContext.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\UMIASContext.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\UMIASContext.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\UMIASContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:57:07.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Doctor.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:03:01.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Direction.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:02:54.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "AppointmentDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\AppointmentDocument.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\AppointmentDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\AppointmentDocument.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\AppointmentDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:02:47.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Appointment.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:02:16.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "AnalyseDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\AnalyseDocument.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\AnalyseDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\AnalyseDocument.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\AnalyseDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:02:10.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Emias_WPF\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\Emias_WPF\\Emias_WPF\\Models\\Admin.cs",
+              "RelativeToolTip": "Emias_WPF\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:01:59.672Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 940,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

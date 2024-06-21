@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Emias_WPF.props" />
+</Project>

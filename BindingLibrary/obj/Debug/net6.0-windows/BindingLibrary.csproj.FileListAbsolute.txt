@@ -1,0 +1,1 @@
+C:\Users\rhali\source\repos\Emias_WPF\BindingLibrary\obj\Debug\net6.0-windows\BindingLibrary.csproj.AssemblyReference.cache
